@@ -1,0 +1,15 @@
+/home/ingamaholwana/Documents/FIbonaccceC-/bin/Debug/net8.0/FIbonaccceC-
+/home/ingamaholwana/Documents/FIbonaccceC-/bin/Debug/net8.0/FIbonaccceC-.deps.json
+/home/ingamaholwana/Documents/FIbonaccceC-/bin/Debug/net8.0/FIbonaccceC-.runtimeconfig.json
+/home/ingamaholwana/Documents/FIbonaccceC-/bin/Debug/net8.0/FIbonaccceC-.dll
+/home/ingamaholwana/Documents/FIbonaccceC-/bin/Debug/net8.0/FIbonaccceC-.pdb
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.GeneratedMSBuildEditorConfig.editorconfig
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.AssemblyInfoInputs.cache
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.AssemblyInfo.cs
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.csproj.CoreCompileInputs.cache
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.sourcelink.json
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.dll
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/refint/FIbonaccceC-.dll
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.pdb
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/FIbonaccceC-.genruntimeconfig.cache
+/home/ingamaholwana/Documents/FIbonaccceC-/obj/Debug/net8.0/ref/FIbonaccceC-.dll
